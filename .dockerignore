@@ -1,0 +1,5 @@
+.git
+server.out.txt
+server.err.txt
+*.exe
+*.test
